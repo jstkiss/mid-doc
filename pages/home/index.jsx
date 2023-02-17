@@ -6,7 +6,6 @@ import Explore from "@src/components/explore";
 import Form from "@src/components/form";
 import Footer from "@src/components/footer";
 
-// import { styles } from "./styles";
 
 const HomePage = () => {
   return (
