@@ -1,0 +1,149 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html,body{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
+  background-color: #262830;
+}
+
+/* Position and sizing of burger button */
+.bm-burger-button {
+  position: relative;
+  width: 36px;
+  height: 30px;
+  left: 36px;
+  top: 36px;
+}
+
+/* Color/shape of burger icon bars */
+.bm-burger-bars {
+  background: white;
+}
+
+/* Color/shape of burger icon bars on hover*/
+
+
+/* Position and sizing of clickable cross button */
+.bm-cross-button {
+  height: 24px;
+  width: 24px;
+}
+
+/* CROIX*/
+.bm-cross {
+  background: white;
+}
+
+/*
+Sidebar wrapper styles
+Note: Beware of modifying this element as it can break the animations - you should not need to touch it in most cases
+*/
+.bm-menu-wrap {
+  position: relative;
+}
+
+/* BACKGROUND */
+.bm-menu {
+  background: #1A232E;
+  padding: 2.5em 1.5em 0;
+  font-size: 1.15em;
+}
+
+/* Morph shape necessary with bubble or elastic */
+.bm-morph-shape {
+  fill: #373a47;
+}
+
+/* Wrapper for item list */
+.bm-item-list {
+  color: white;
+  padding: 0.8em;
+}
+
+/* Individual item */
+.bm-item {
+  display: inline-block;
+}
+
+/* Styling of overlay */
+.bm-overlay {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+
+  height: 2000px;
+}
+
+.arrowUp {
+  width: 2rem;
+  height: 2rem;
+}
+
+.scrollToTop-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  position: fixed;
+  bottom: 60px;
+  right: 50px;
+  width: 60px;
+  height: 60px;
+  font-size: 16px;
+  line-height: 48px;
+
+  background-color: #007acc;
+  border: none;
+  border-radius: 50%;
+  color: white;
+  cursor: pointer;
+}
+
+.scrollToTop-btn:hover {
+  background: #005c99;
+}
+
+.gradient-01 {
+    background-image: linear-gradient(
+      270deg,
+      hsl(295deg 76% 51%) 0%,
+      hsl(284deg 70% 73%) 26%,
+      hsl(257deg 70% 86%) 39%,
+      hsl(202deg 92% 90%) 50%,
+      hsl(215deg 77% 81%) 61%,
+      hsl(221deg 73% 70%) 74%,
+      hsl(220deg 76% 51%) 100%
+    );
+    filter: blur(125px);
+}
+
+
+.gradient-03 {
+    position: absolute;
+    width: 404px;
+    height: 800px;
+    left: 20%;
+    top: 5%;
+  
+    background: rgba(149, 66, 232, 0.35);
+    filter: blur(175px);
+    transform: rotate(-114.2deg);
+}
+
+.gradient-04 {
+    position: absolute;
+    width: 304px;
+    height: 100vh;
+    left: 30%;
+    top: 10%;
+  
+    background: rgba(45, 72, 152, 0.75);
+    filter: blur(200px);
+    transform: rotate(-53.13deg);
+}
