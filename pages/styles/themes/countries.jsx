@@ -24,7 +24,7 @@ const categories = [
   },
   {
     id: 4,
-    name: "	American Realism",
+    name: "American Realism",
     image: "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/American_Realism.png?raw=true",
   },
   {
