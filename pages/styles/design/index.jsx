@@ -6,7 +6,6 @@ import Comparison from "../../../src/components/comparison";
 import { TypingText } from "../../../src/components/CustomTexts";
 import { staggerContainer, textVariant } from "../../../utils/motion";
 import styles from "../../../styles";
-import Image from "next/image";
 import React from "react";
 import { useEffect, useState } from "react";
 import Patterns from "./patterns";

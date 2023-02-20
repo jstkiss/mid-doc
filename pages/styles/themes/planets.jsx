@@ -1,11 +1,3 @@
-import { pushRotate as Menu } from "react-burger-menu";
-import AnchorLink from "react-anchor-link-smooth-scroll-v2";
-import { motion } from "framer-motion";
-import Dropstyles from "@src/components/dropstyles";
-import Comparison from "@src/components/comparison";
-import { staggerContainer, textVariant } from "../../../utils/motion";
-import styles from "../../../styles";
-import Image from "next/image";
 import React from "react";
 import { useEffect, useState } from "react";
 
