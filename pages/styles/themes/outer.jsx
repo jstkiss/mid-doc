@@ -207,15 +207,15 @@ const Outer = () => {
           </div>
           <div className="flex justify-center items-center">
             {selectedCategoryId ? (
-              <img
-                className="w-96"
-                src={
-                  categories.find(
-                    (category) => category.id === selectedCategoryId
-                  ).image
-                }
-                alt="dzdd"
-              />
+              <Image
+              className="w-96"
+              src={
+                categories.find(
+                  (category) => category.id === selectedCategoryId
+                ).image
+              }
+              alt="dzdd"
+            />
             ) : (
               <p></p>
             )}

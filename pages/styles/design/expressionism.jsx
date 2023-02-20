@@ -51,7 +51,7 @@ const Expressionism = () => {
           </div>
           <div className="flex justify-center items-center">
             {selectedCategoryId ? (
-              <img
+              <Image
                 className="w-96"
                 src={
                   categories.find(
