@@ -21,6 +21,7 @@ import Synesthesia from "./synesthesia";
 import Art from "./art";
 import Stylized from "./stylized";
 import Other from "./others";
+import Image from "next/image";
 
 const categories = [
   {
