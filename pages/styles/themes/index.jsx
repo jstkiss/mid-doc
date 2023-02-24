@@ -27,7 +27,6 @@ import Cartoons from "./cartoons";
 import Colors from "./colors";
 import Mood from "./mood";
 import Other from "./other";
-import Image from "next/image";
 
 const categories = [
   {
@@ -398,7 +397,7 @@ const Design = () => {
             </div>
             <div className="flex justify-center items-center">
               {selectedCategoryId ? (
-                <Image
+                <img
                 className="w-96"
                 src={
                   categories.find(

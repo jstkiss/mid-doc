@@ -97,7 +97,7 @@ const Other = () => {
             </div>
             <div className="flex justify-center items-center">
               {selectedCategoryId ? (
-                <Image
+                <img
                 className="w-96"
                 src={
                   categories.find(
