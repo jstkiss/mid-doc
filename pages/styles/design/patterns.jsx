@@ -119,7 +119,7 @@ const Patterns = () => {
             {categories.map((category) => (
               <h1
                 className="text-white pl-4 pt-5"
-                key={category}
+                key={category.id}
                 onClick={() => setSelectedCategoryId(category.id)}
               >
                 {category.name}
@@ -128,17 +128,23 @@ const Patterns = () => {
           </div>
           <div className="flex justify-center items-center">
             {selectedCategoryId ? (
-              <img
+              <Image
                 className="w-96"
                 src={
                   categories.find(
                     (category) => category.id === selectedCategoryId
                   ).image
                 }
-                alt="dzdd"
+                alt={
+                  categories.find(
+                    (category) => category.id === selectedCategoryId
+                  ).alt
+                }
+                width={"100%"}
+                height={"100%"}
               />
             ) : (
-              <p></p>
+              <p>Sélectionnez une catégorie</p>
             )}
           </div>
         </section>
