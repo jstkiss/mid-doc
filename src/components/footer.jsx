@@ -1,6 +1,6 @@
 import AnchorLink from "react-anchor-link-smooth-scroll-v2";
 import React from "react";
-
+import Image from "next/image";
 
 
 
@@ -12,7 +12,7 @@ const Footer = () => {
         <div class="md:flex md:justify-between">
             <div class="mb-6 md:mb-0">
                 <AnchorLink href="https://flowbite.com" class="flex items-center">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Midjourney_Emblem.png" class="mr-3 h-8" alt="FlowBite Logo" />
+                    <Image src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Midjourney_Emblem.png" class="mr-3 h-8" alt="FlowBite Logo" />
                     <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Mid-doc</span>
                 </AnchorLink>
             </div>

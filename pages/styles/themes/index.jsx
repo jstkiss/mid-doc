@@ -27,6 +27,7 @@ import Cartoons from "./cartoons";
 import Colors from "./colors";
 import Mood from "./mood";
 import Other from "./other";
+import Image from "next/image";
 
 const categories = [
   {

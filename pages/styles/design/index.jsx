@@ -273,39 +273,39 @@ const Themes = () => {
             Simplicity/Complexity
           </summary>
           <section className="grid grid-cols-2">
-          <div className="flex justify-center items-center flex-col">
-            {categories.map((category) => (
-              <h1
-                className="text-white pl-4 pt-5"
-                key={category.id}
-                onClick={() => setSelectedCategoryId(category.id)}
-              >
-                {category.name}
-              </h1>
-            ))}
-          </div>
-          <div className="flex justify-center items-center">
-            {selectedCategoryId ? (
-              <Image
-                className="w-96"
-                src={
-                  categories.find(
-                    (category) => category.id === selectedCategoryId
-                  ).image
-                }
-                alt={
-                  categories.find(
-                    (category) => category.id === selectedCategoryId
-                  ).alt
-                }
-                width={"100%"}
-                height={"100%"}
-              />
-            ) : (
-              <p>Sélectionnez une catégorie</p>
-            )}
-          </div>
-        </section>
+            <div className="flex justify-center items-center flex-col">
+              {categories.map((category) => (
+                <h1
+                  className="text-white pl-4 pt-5"
+                  key={category.id}
+                  onClick={() => setSelectedCategoryId(category.id)}
+                >
+                  {category.name}
+                </h1>
+              ))}
+            </div>
+            <div className="flex justify-center items-center">
+              {selectedCategoryId ? (
+                <Image
+                  className="w-96"
+                  src={
+                    categories.find(
+                      (category) => category.id === selectedCategoryId
+                    ).image
+                  }
+                  alt={
+                    categories.find(
+                      (category) => category.id === selectedCategoryId
+                    ).alt
+                  }
+                  width={"100%"}
+                  height={"100%"}
+                />
+              ) : (
+                <p>Sélectionnez une catégorie</p>
+              )}
+            </div>
+          </section>
         </details>
       </section>
       <Patterns />
@@ -321,47 +321,6 @@ const Themes = () => {
       <Art />
       <Stylized />
       <Other />
-      <section class="bg-customblack">
-        <div class="max-w-lg bg-customblack px-4 pt-24 py-8 mx-auto text-left md:max-w-none md:text-center">
-          <h1 class="text-3xl font-extrabold leading-10 tracking-tight text-white text-center sm:leading-none md:text-6xl first-letter:lg:text-7xl">
-            <span class="inline md:block">Join Us</span>
-            <span class=" mt-2 bg-clip-text text-transparent bg-gradient-to-r from-yellow-400 via-emerald-400 to-blue-500 md:inline-block">
-              {" "}
-              More
-              <span class="bg-clip-text text-transparent bg-gradient-to-r from-teal-500 via-cyon-400 to-yellow-300">
-                {" "}
-                Info
-              </span>{" "}
-            </span>
-          </h1>
-          <div class="mx-auto rounded-lg font-black mt-5 text-zinc-400 md:mt-12 md:max-w-lg text-center lg:text-lg grid grid-cols-2">
-            <div>
-              <button class="bg-tkb border text-sm text-white py-3 px-7 rounded-full">
-                Join Discord
-              </button>
-            </div>
-            <div>
-              <button class="bg-tkb border text-sm text-white py-3 px-7 rounded-full">
-                Join Twitter
-              </button>
-            </div>
-          </div>
-        </div>
-      </section>
-      <hr class="text-white mx-5" />
-      <footer class="bg-customblack pb-5">
-        <div class="max-w-screen-xl px-4 pt-8 mx-auto sm:px-6 lg:px-8">
-          <div class="sm:flex sm:items-center sm:justify-between">
-            <div class="flex justify-center text-customblue sm:justify-start">
-              <img class="rounded-full" src="" width="40" height="40" />
-            </div>
-
-            <p class="mt-4 text-sm text-center text-gray-400 lg:text-right lg:mt-0">
-              T&C &nbsp; Career &nbsp; Privacy & Policy &nbsp; Developers
-            </p>
-          </div>
-        </div>
-      </footer>
     </body>
   );
 };
