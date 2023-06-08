@@ -1,22 +1,22 @@
-'use client';
-
-import { motion } from 'framer-motion';
-import styles from '../../styles';
-import { fadeIn } from '../../utils/motion';
-import Image from 'next/image';
-
+import { motion } from "framer-motion";
+import styles from "../../styles";
+import { fadeIn } from "../../utils/motion";
+import Image from "next/image";
 const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
   <motion.div
-    variants={fadeIn('right', 'spring', index * 0.5, 0.75)}
+    variants={fadeIn("right", "spring", index * 0.5, 0.75)}
     className={`relative ${
-      active === id ? 'lg:flex-[3.5] flex-[10]' : 'lg:flex-[0.5] flex-[2]'
+      active === id ? "lg:flex-[3.5] flex-[10]" : "lg:flex-[0.5] flex-[2]"
     } flex items-center justify-center min-w-[170px] h-[700px] transition-[flex] duration-[0.7s] ease-out-flex cursor-pointer`}
     onClick={() => handleClick(id)}
   >
     <Image
       src={imgUrl}
       alt={title}
-      className="absolute w-full h-full object-cover rounded-[24px]"
+      className="absolute h-full w-full object-cover rounded-[24px]"
+      layout="fill"
+      // width="100%"
+      // height="100%"
     />
     {active !== id ? (
       <h3 className="font-semibold sm:text-[26px] text-[18px] text-white absolute z-0 lg:bottom-20 lg:rotate-[-90deg] lg:origin-[O,0]">
@@ -30,7 +30,9 @@ const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
           <Image
             src="/raw.png"
             alt="head"
-            className="w-1/2 h-1/2 object-contain"
+            className="object-contain"
+            width={"431px"}
+            height={"431px"}
           />
         </div>
         <p className="font-normal text-base leading-5 text-white uppercase">

@@ -42,7 +42,7 @@ module.exports = {
       rose: colors.rose,
       },
       // backgroundImage: {
-      //   'booki': "url('/booki.png')",
+      //   'booki': "url('/booki.png')"
       //   'service': "url('/service.png')",
 
       // },

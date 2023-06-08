@@ -310,8 +310,8 @@ const Psy = () => {
                     (category) => category.id === selectedCategoryId
                   ).alt
                 }
-                width={"100%"}
-                height={"100%"}
+                width={"431px"}
+                height={"431px"}
               />
             ) : (
               <p>Sélectionnez une catégorie</p>
