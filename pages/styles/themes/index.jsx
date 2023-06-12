@@ -30,6 +30,7 @@ import Other from "./other";
 import Atmosphere from "./atmosphere";
 import Image from "next/image";
 
+
 const categories = [
   {
     id: 1,

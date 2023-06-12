@@ -26,14 +26,14 @@ export default function Example() {
         leaveFrom="transform opacity-100 scale-100"
         leaveTo="transform opacity-0 scale-95"
       >
-        <Menu.Items className="absolute bg-white text-gray-700">
+        <Menu.Items className="absolute bg-white text-black">
           <div className="py-1">
             <Menu.Item>
               {({ active }) => (
                 <Link
                   href="/styles/themes"
                   className={classNames(
-                    active ? "bg-gray-100 text-gray-900" : "text-gray-700",
+                    active ? "bg-gray-100 text-black" : "text-gray-700",
                     "block px-4 py-2 text-sm"
                   )}
                 >
