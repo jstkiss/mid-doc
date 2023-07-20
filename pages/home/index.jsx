@@ -1,10 +1,10 @@
-import Header from "@src/components/header";
-import Introduction from "@src/components/introduction";
+import Header from "../../src/components/header";
+import Introduction from "../../src/components/introduction";
 import React from "react";
-import About from "@src/components/abouts";
-import Explore from "@src/components/explore";
-import Form from "@src/components/form";
-import Footer from "@src/components/footer";
+import About from "../../src/components/abouts";
+import Explore from "../../src/components/explore";
+import Form from "../../src/components/form";
+import Footer from "../../src/components/footer";
 
 
 const HomePage = () => {

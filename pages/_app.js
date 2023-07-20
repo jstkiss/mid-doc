@@ -1,5 +1,5 @@
 import "tailwindcss/tailwind.css";
-import "@src/assets/css/styles.css";
+import "../src/assets/css/styles.css";
 import { useEffect } from "react";
 import AOS from 'aos';
 import "aos/dist/aos.css";

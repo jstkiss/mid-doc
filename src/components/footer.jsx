@@ -10,11 +10,11 @@ const Footer = () => {
           <div class="mb-6 md:mb-0">
             <AnchorLink href="https://flowbite.com" class="flex items-center">
               <Image
-                src='/raw.png'
+                src='../../public/raww.png'
                 class="mr-3"
                 alt="FlowBite Logo"
-                width={"50%"}
-                height={"50%"}
+                width={"431px"}
+                height={"431px"}
               />
               <span class="self-center text-2xl ml-5 font-semibold whitespace-nowrap dark:text-white">
                 Mid-doc

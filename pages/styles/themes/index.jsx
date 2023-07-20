@@ -3,31 +3,10 @@ import AnchorLink from "react-anchor-link-smooth-scroll-v2";
 import { motion } from "framer-motion";
 import Dropstyles from "../../../src/components/dropstyles";
 import Comparison from "../../../src/components/comparison";
-import { TypingText } from "../../../src/components/CustomTexts";
 import { staggerContainer, textVariant } from "../../../utils/motion";
 import styles from "../../../styles";
 import React from "react";
-import { useEffect, useState } from "react";
-import Retro from "./retro";
-import Scifi from "./scifi";
-import Outer from "./outer";
-import Planets from "./planets";
-import Countries from "./countries";
-import Urban from "./urban";
-import Rooms from "./rooms";
-import Architecture from "./architecture";
-import Biomes from "./biomes";
-import Nature from "./nature";
-import Seasons from "./seasons";
-import Holidays from "./holidays";
-import Professions from "./professions";
-import Times from "./time";
-import Music from "./music";
-import Cartoons from "./cartoons";
-import Colors from "./colors";
-import Mood from "./mood";
-import Other from "./other";
-import Atmosphere from "./atmosphere";
+import { useState } from "react";
 import Image from "next/image";
 
 
@@ -445,26 +424,16 @@ const Design = () => {
         </section>
         </details>
       </section>
-      <Retro />
+      {/* <Retro />
       <Scifi />
       <Atmosphere />
-      {/* <Outer />
-      <Planets />
-      <Countries />
-      <Urban /> */}
       <Rooms />
       <Architecture />
-      {/* <Biomes />
-      <Nature />
-      <Seasons />
-      <Holidays />
-      <Professions />
-      <Times /> */}
       <Music />
       <Cartoons />
       <Colors />
       <Mood />
-      <Other />
+      <Other /> */}
     </body>
   );
 };
