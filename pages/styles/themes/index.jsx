@@ -414,8 +414,8 @@ const Design = () => {
                     (category) => category.id === selectedCategoryId
                   ).alt
                 }
-                width={"431px"}
-                height={"431px"}
+                width="431"
+                height="431"
               />
             ) : (
               <p>Sélectionnez une catégorie</p>

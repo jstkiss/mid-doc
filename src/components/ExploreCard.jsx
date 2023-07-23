@@ -2,6 +2,7 @@ import { motion } from "framer-motion";
 import styles from "../../styles";
 import { fadeIn } from "../../utils/motion";
 import Image from "next/image";
+
 const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
   <motion.div
     variants={fadeIn("right", "spring", index * 0.5, 0.75)}
@@ -28,11 +29,11 @@ const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
           className={`${styles.flexCenter} w-14 h-14 rounded-3xl glassmorphism mb-4`}
         >
           <Image
-            src="/raw.png"
+            src="/public/raww.png"
             alt="head"
             className="object-contain"
-            width={"431px"}
-            height={"431px"}
+            width="431"
+            height="431"
           />
         </div>
         <p className="font-normal text-base leading-5 text-white uppercase">
