@@ -1,59 +1,41 @@
-import { pushRotate as Menu } from "react-burger-menu";
-import AnchorLink from "react-anchor-link-smooth-scroll-v2";
-import { motion } from "framer-motion";
-import Dropstyles from "./dropstyles";
-import Comparison from "../components/comparison";
+"use client";
+
+import { useState } from "react";
 
 const Header = () => {
+  const [showLinks, setShowLinks] = useState(false);
+
+  const handleShowLinks = () => {
+    setShowLinks(!showLinks);
+  };
+
   return (
-    <div className="lg:grid lg:grid-cols-2 lg:h-40">
-      <div className="lg:hidden">
-        <Menu>
-          <div className="grid grid-rows-5">
-            <div>
-              <AnchorLink href="#">Accueil</AnchorLink>
-            </div>
-            <div>
-              <AnchorLink href="#">Styles</AnchorLink>
-            </div>
-            <div>
-              <AnchorLink href="#">Comparison Pages</AnchorLink>
-            </div>
-            <div>
-              <AnchorLink href="#">blabla</AnchorLink>
-            </div>
-          </div>
-        </Menu>
-      </div>
-      <motion.div className="lg:col-start-2 lg:flex hidden lg:items-center lg:justify-center">
-        <nav className="text-white">
-          <ul className="lg:flex">
-            <li>
-              <AnchorLink
-                href="#home"
-                className="hover:scale-125 hover:ease-in"
-              >
-                Accueil
-              </AnchorLink>
-            </li>
-            <li>
-              <Dropstyles />
-            </li>
-            <li>
-              <Comparison />
-            </li>
-            <li className="lg:pl-5">
-              <AnchorLink
-                href="#contact"
-                className="hover:scale-125 hover:ease-in"
-              >
-                blabla
-              </AnchorLink>
-            </li>
-          </ul>
-        </nav>
-      </motion.div>
-    </div>
+    <nav className={`navbar z-50  ${showLinks ? "show-nav" : "hide-nav"} `}>
+      <div className="navbar_logo">Logo</div>
+      <ul className="navbar_links list-none m-0 p-0 flex">
+        <li className="navbar_item">
+          <a className="navbar_link" href="">
+          <span className="text-customyello">01.</span> Accueil
+          </a>
+        </li>
+        <li className="navbar_item">
+          <a className="navbar_link" href="/styles/themes">
+            <span className="text-customyello">02.</span> Styles
+          </a>
+        </li>
+        <li className="navbar_item">
+          <a className="navbar_link" href="">
+          <span className="text-customyello">03.</span> Comparision
+          </a>
+        </li>
+      </ul>
+      <button
+        className="navbar_burger w-10 h-10 bg-transparent border-none text-inherit hidden"
+        onClick={handleShowLinks}
+      >
+        <span className="burger-bar"></span>
+      </button>
+    </nav>
   );
 };
 
