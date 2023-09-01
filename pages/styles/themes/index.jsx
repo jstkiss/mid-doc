@@ -6,6 +6,8 @@ import React from "react";
 import { useState } from "react";
 import Image from "next/image";
 import Header from "../../../src/components/header";
+import Retro from "./retro"
+import Scifi from "./scifi"
 
 const categories = [
   {
@@ -385,9 +387,9 @@ const Design = () => {
           </section>
         </details>
       </section>
-      {/* <Retro />
+      <Retro />
       <Scifi />
-      <Atmosphere />
+      {/* <Atmosphere />
       <Rooms />
       <Architecture />
       <Music />
