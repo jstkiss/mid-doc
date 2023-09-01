@@ -14,19 +14,19 @@ const Header = () => {
       <div className="navbar_logo">Logo</div>
       <ul className="navbar_links list-none m-0 p-0 flex">
         <li className="navbar_item">
-          <a className="navbar_link" href="/pages/home">
+          <Link className="navbar_link" href="#">
           <span className="text-customyello">01.</span> Accueil
-          </a>
+          </Link>
         </li>
         <li className="navbar_item">
-          <a className="navbar_link" href="/styles/themes">
+          <Link className="navbar_link" href="/styles/themes">
             <span className="text-customyello">02.</span> Styles
-          </a>
+          </Link>
         </li>
         <li className="navbar_item">
-          <a className="navbar_link" href="">
+          <Link className="navbar_link" href="">
           <span className="text-customyello">03.</span> Comparision
-          </a>
+          </Link>
         </li>
       </ul>
       <button
