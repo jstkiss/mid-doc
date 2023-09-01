@@ -15,14 +15,12 @@ const About = () => (
       viewport={{ once: false, amount: 0.25 }}
       className={`${styles.innerWidth} mx-auto ${styles.flexCenter} flex-col`}
     >
-      <TypingText title=' About JSTKiss' textStyles='text-center' />
       <motion.p
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className='mt-2 font-normal sm:text-2xl text-center text-secondary-white text-white'
       >
-        <span className='font-extrabold text-white'> JSTKiss </span>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero in maiores expedita animi! Earum ea neque maiores ipsam numquam aliquam, id esse odit consequatur maxime molestiae nobis ratione. Repudiandae, enim.
-        blalblalblal
+        <span className='font-extrabold text-white'> Midjourney </span>
+        est un laboratoire de recherche indépendant qui produit un programme d'intelligence artificielle sous le même nom et qui permet de créer des images à partir de descriptions textuelles
       </motion.p>
       <motion.img
         variants={fadeIn('up', 'tween', 0.3, 1)}

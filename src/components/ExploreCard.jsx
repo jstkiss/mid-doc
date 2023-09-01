@@ -29,7 +29,7 @@ const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
           className={`${styles.flexCenter} w-14 h-14 rounded-3xl glassmorphism mb-4`}
         >
           <Image
-            src="/public/raww.png"
+            src="/raww.png"
             alt="head"
             className="object-contain"
             width="431"

@@ -10,7 +10,7 @@ const Footer = () => {
           <div class="mb-6 md:mb-0">
             <AnchorLink href="https://flowbite.com" class="flex items-center">
               <Image
-                src='/public/raww.png'
+                src='/raww.png'
                 class="mr-3"
                 alt="FlowBite Logo"
                 width="50"

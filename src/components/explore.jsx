@@ -5,6 +5,7 @@ import ExploreCard from "./ExploreCard";
 import styles from "../../styles";
 import { staggerContainer } from "../../utils/motion";
 import { exploreWorlds } from "./index";
+
 const Explore = () => {
   const [active, setActive] = useState('world-2')
   return (

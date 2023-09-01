@@ -11,7 +11,7 @@ export const exploreWorlds = [
   },
   {
     id: "world-3",
-    imgUrl: "/pirate.png",
+    imgUrl: "/deadpool.png",
     title: "Pirate girl",
   },
   {

@@ -16,7 +16,7 @@ const Header = () => {
       <div className="navbar_logo">Logo</div>
       <ul className="navbar_links list-none m-0 p-0 flex">
         <li className="navbar_item">
-          <Link className="navbar_link" href="#">
+          <Link className="navbar_link" href="/pages/home">
           <span className="text-customyello">01.</span> Accueil
           </Link>
         </li>
