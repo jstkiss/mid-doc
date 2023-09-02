@@ -7,6 +7,14 @@ import { useState } from "react";
 import Realism from "./Components/realism";
 import Retro from "./Components/retro";
 import Scifi from "./Components/scifi";
+import Atmosphere from "./Components/atmosphere"
+import Rooms from "./Components/rooms"
+import Architecture from "./Components/architecture"
+import Music from "./Components/music"
+import Cartoons from "./Components/cartoons";
+import Colors from "./Components/colors" 
+import Mood from "./Components/mood"
+import Other from "./Components/other"
 
 const Themes = () => {
   return (
@@ -48,6 +56,14 @@ const Themes = () => {
       <Realism />
       <Retro />
       <Scifi />
+      <Atmosphere />
+      <Rooms />
+      <Architecture />
+      <Music />
+      <Cartoons />
+      <Colors />
+      <Mood />
+      <Other />
       </section>
     </body>
   );

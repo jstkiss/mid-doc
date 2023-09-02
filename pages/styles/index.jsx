@@ -49,19 +49,6 @@ const Design = () => {
       <section>
         <Frame />
       </section>
-      <section className="mt-52">
-      <Realism />
-      <Retro />
-      <Scifi />
-      </section>
-      {/* <Atmosphere />
-      <Rooms />
-      <Architecture />
-      <Music />
-      <Cartoons />
-      <Colors />
-      <Mood />
-      <Other /> */}
     </body>
   );
 };
