@@ -20,7 +20,7 @@ const About = () => (
         className='mt-2 font-normal sm:text-2xl text-center text-secondary-white text-white'
       >
         <span className='font-extrabold text-white'> Midjourney </span>
-        est un laboratoire de recherche indépendant qui produit un programme d&aposintelligence artificielle sous le même nom et qui permet de créer des images à partir de descriptions textuelles
+        est un laboratoire de recherche indépendant qui produit un programme d&apos;intelligence artificielle sous le même nom et qui permet de créer des images à partir de descriptions textuelles
       </motion.p>
       <motion.img
         variants={fadeIn('up', 'tween', 0.3, 1)}

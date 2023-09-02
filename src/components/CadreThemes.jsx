@@ -16,7 +16,7 @@ const Frame = () => {
         </div>
         <div className="flex justify-center border border-gray-800 rounded p-4">
           <Link className="" href="/styles/themes">
-            Themes ICI que lui fonctionne pour l'instant
+            Themes ICI que lui fonctionne pour l&apos;instant
           </Link>
         </div>
         <div className="flex justify-center border border-gray-800 rounded p-4">
