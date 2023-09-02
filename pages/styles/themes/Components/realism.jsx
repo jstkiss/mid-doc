@@ -1,5 +1,5 @@
 import React from "react";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import Image from "next/image";
 
 const categories = [
@@ -302,8 +302,9 @@ const categories = [
 ];
 
 const Realism = () => {
-    const [selectedCategoryId, setSelectedCategoryId] = useState(null);
-    return (
+  const [selectedCategoryId, setSelectedCategoryId] = useState(null);
+  return (
+    <body>
       <section className="mt-5 ml-20">
         <details className="cursor-pointer">
           <summary className="cursor-pointer text-customyello">Realism</summary>
@@ -343,7 +344,8 @@ const Realism = () => {
           </section>
         </details>
       </section>
-    );
-  };
-  
-  export default Realism;
+    </body>
+  );
+};
+
+export default Realism;

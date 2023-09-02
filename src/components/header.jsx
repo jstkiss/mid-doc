@@ -17,7 +17,7 @@ const Header = () => {
       <ul className="navbar_links list-none m-0 p-0 flex">
         <li className="navbar_item">
           <Link className="navbar_link" href="/pages/home">
-          <span className="text-customyello">01.</span> Accueil
+          <span className="text-customyello">01.</span> Home
           </Link>
         </li>
         <li className="navbar_item">

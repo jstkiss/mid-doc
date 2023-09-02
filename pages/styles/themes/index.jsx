@@ -1,14 +1,13 @@
-import { pushRotate as Menu } from "react-burger-menu";
 import { motion } from "framer-motion";
 import { staggerContainer, textVariant } from "../../../utils/motion";
 import styles from "../../../styles";
 import React from "react";
 import { useState } from "react";
-import Image from "next/image";
 import Header from "../../../src/components/header";
-import Realism from "./realism";
-import Retro from "./retro";
-import Scifi from "./scifi";
+import Realism from "./Components/realism";
+import Retro from "./Components/retro";
+import Scifi from "./Components/scifi";
+import Frame from "../../../src/components/CadreThemes";
 
 const Design = () => {
   const [selectedCategoryId, setSelectedCategoryId] = useState(null);
@@ -30,40 +29,25 @@ const Design = () => {
               variants={textVariant(1.1)}
               className={styles.heroHeading}
             >
-              Bienvenue sur
+              Welcome to
             </motion.h1>
             <motion.div
               variants={textVariant(1.2)}
               className="flex flex-row justify-center items-center"
             >
-              <h1 className={styles.heroHeading}>La Doc-</h1>
+              <h1 className={styles.heroHeading}>the Doc-</h1>
               <div className={styles.heroDText} />
               <h1 className={styles.heroHeading}>
                 {" "}
-                <span className="text-customyello">Thèmes</span>
+                <span className="text-customyello">Styles</span>
               </h1>
               <hr className="text-white" />
             </motion.div>
           </div>
         </motion.div>
       </section>
-      <section className="grid grid-cols-2 grid-rows-7">
-        <div className="pl-5 pr-5 flex justify-center">
-          <details className="border-0 rounded">
-            <summary className="text-white">Themes</summary>
-            <Realism />
-            <Retro />
-            <Scifi />
-          </details>
-        </div>
-        <div className="pl-5 pr-5 flex justify-center">
-          <details className="border-0 rounded">
-            <summary className="text-white">Design</summary>
-            <Realism />
-            <Retro />
-            <Scifi />
-          </details>
-        </div>
+      <section>
+        <Frame />
       </section>
       <section className="mt-52">
       <Realism />
