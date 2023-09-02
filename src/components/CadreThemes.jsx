@@ -3,7 +3,7 @@ import Link from "next/link";
 const Frame = () => {
   return (
     <body>
-      <section className="grid grid-cols-3 grid-rows-13 text-white pl-24 pr-24 mt-32 ">
+      <section className="grid grid-cols-3 grid-rows-13 text-white pl-24 pr-24 mt-32 gap-2">
         <div className="col-span-3 flex justify-center border border-gray-800 rounded p-4">
           <Link className="" href="">
             <span>Raibow of Midjourney Colors</span>
@@ -15,13 +15,13 @@ const Frame = () => {
           </Link>
         </div>
         <div className="flex justify-center border border-gray-800 rounded p-4">
-          <Link className="" href="">
-            <span>Themes</span>
+          <Link className="" href="/styles/themes">
+            Themes
           </Link>
         </div>
         <div className="flex justify-center border border-gray-800 rounded p-4">
           <Link className="" href="">
-            <span>Design Styles</span>
+            Design Styles
           </Link>
         </div>
         <div className="flex justify-center border border-gray-800 rounded p-4">

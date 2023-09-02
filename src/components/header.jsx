@@ -16,12 +16,12 @@ const Header = () => {
       <div className="navbar_logo">Logo</div>
       <ul className="navbar_links list-none m-0 p-0 flex">
         <li className="navbar_item">
-          <Link className="navbar_link" href="/pages/home">
+          <Link className="navbar_link" href="/home">
           <span className="text-customyello">01.</span> Home
           </Link>
         </li>
         <li className="navbar_item">
-          <Link className="navbar_link" href="/styles/themes">
+          <Link className="navbar_link" href="/styles">
             <span className="text-customyello">02.</span> Styles
           </Link>
         </li>
