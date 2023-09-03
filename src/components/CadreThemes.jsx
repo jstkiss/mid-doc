@@ -10,7 +10,7 @@ const Frame = () => {
           </Link>
         </div>
         <div className="col-span-3 flex justify-center border border-gray-800 rounded p-4">
-          <Link className="" href="">
+          <Link className="" href="/styles/emoji">
             <span>Emoji</span>
           </Link>
         </div>
