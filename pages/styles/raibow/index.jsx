@@ -48,6 +48,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Black/DarkBlack.webp?raw=true"
+            alt="DarkBlack"
             width={200}
             height={200}
           />
@@ -59,6 +60,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Black/Black.webp?raw=true"
+            alt="Black"
             width={200}
             height={200}
           />
@@ -70,6 +72,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Black/Light_Black.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -81,6 +84,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Gray/DarkGray.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -92,6 +96,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Gray/Gray.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -103,6 +108,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Gray/SlateGray/DarkSlateGray.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -114,6 +120,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Gray/Dark_Gray.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -125,6 +132,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/White/Dark_White.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -136,6 +144,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Gray/Light_Gray.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -147,6 +156,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Gray/Silver/Silver.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -158,6 +168,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Gray/Silver/SilverGray.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -169,6 +180,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Gray/Silver/Light_SilverGray.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -180,6 +192,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Gray/Silver/Dark_SilverGray.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -189,6 +202,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Gray/DimGray.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -198,6 +212,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Gray/SlateGray/SlateGray.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -207,6 +222,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Gray/SlateGray/LightSlateGray.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -216,6 +232,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Gray/MediumGray.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -225,6 +242,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Gray/LightGray.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -234,6 +252,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -243,6 +262,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/White/Light_White.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -252,6 +272,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/White/WhiteSmoke.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -261,6 +282,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/White/Gainsboro.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -270,6 +292,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/White/MediumWhite.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -279,6 +302,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/White/White.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -288,6 +312,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Brown/KhakiBrown.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -297,6 +322,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Brown/Tan/Tan.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -306,6 +332,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Brown/Tan/Light_Tan.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -315,6 +342,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Brown/Beige/MediumBeige.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -324,6 +352,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Brown/Beige/Beige.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -333,6 +362,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Brown/Beige/Light_Beige.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -342,6 +372,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Brown/Dark_Brown.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -351,6 +382,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Brown/Tan/Dark_Tan.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -360,6 +392,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Brown/Brown.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -369,6 +402,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Brown/Beige/Dark_Beige.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -378,6 +412,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Brown/Light_Brown.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -387,6 +422,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Brown/Vivid_Brown.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -396,6 +432,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -405,6 +442,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Red/Maroon/Dark_Maroon.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -414,6 +452,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Red/Maroon/Vivid_Maroon.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -423,6 +462,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Red/Maroon/Maroon.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -432,6 +472,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Red/Maroon/Light_Maroon.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -441,6 +482,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Brown/RosyBrown.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -450,6 +492,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Red/DarkRed.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -459,6 +502,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Red/Dark_Red.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -468,6 +512,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Red/MediumRed.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -477,6 +522,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Red/Red.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -486,6 +532,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Red/Vivid_Red.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -495,6 +542,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Red/Light_Red.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -504,6 +552,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/RedOrange/Dark_RedOrange.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -513,6 +562,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Red/Crimson.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -522,6 +572,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Red/Scarlet.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -531,6 +582,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/RedOrange/Light_RedOrange.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -540,6 +592,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/RedOrange/RedOrange.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -549,6 +602,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/RedOrange/OrangeRed.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -558,6 +612,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Orange/Dark_Orange.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -567,6 +622,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Orange/DarkOrange.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -576,6 +632,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Orange/MediumOrange.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -585,6 +642,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Orange/Vivid_Orange.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -594,6 +652,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Orange/Orange.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -603,6 +662,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Orange/Light_Orange.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -612,6 +672,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -621,6 +682,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -630,6 +692,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/RedOrange/Light_RedOrange.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -639,6 +702,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -648,6 +712,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/YellowOrange/OrangeYellow.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -657,6 +722,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/YellowOrange/YellowOrange.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -666,6 +732,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Yellow/Goldenrod/DarkGoldenrod.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -675,6 +742,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Yellow/Goldenrod/PaleGoldenrod.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -684,6 +752,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Yellow/Goldenrod/Goldenrod.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -693,6 +762,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Yellow/Goldenrod/LightGoldenrodYellow.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -702,6 +772,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Yellow/LightYellow.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -711,6 +782,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -720,6 +792,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -729,6 +802,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Yellow/Dark_Yellow.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -738,6 +812,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Yellow/Gold.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -747,6 +822,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Yellow/Vivid_Yellow.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -756,6 +832,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Yellow/Yellow.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -765,6 +842,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Yellow/Light_Yellow.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -774,6 +852,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -783,6 +862,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -792,6 +872,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/SpringGreen/Light_SpringGreen.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -801,6 +882,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/YellowGreen/MediumGreenYellow.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -810,6 +892,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/YellowGreen/Light_YellowGreen.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -819,6 +902,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/YellowGreen/Light_GreenYellow.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -828,6 +912,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/YellowGreen/Dark_GreenYellow.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -837,6 +922,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/YellowGreen/Dark_YellowGreen.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -846,6 +932,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/YellowGreen/MediumYellowGreen.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -855,6 +942,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/ChartreuseGreen.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -864,6 +952,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/YellowGreen/GreenYellow.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -873,6 +962,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/YellowGreen/YellowGreen.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -882,6 +972,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/Lime/Dark_Lime.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -891,6 +982,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/Lime/Lime.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -900,6 +992,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -909,6 +1002,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/Lime/Vivid_Lime.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -918,6 +1012,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/Lime/LimeGreen.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -927,6 +1022,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/Lime/Light_Lime.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -936,6 +1032,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/Olive/Dark_OliveGreen.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -945,6 +1042,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -954,6 +1052,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/Olive/Olive_Green.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -963,6 +1062,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/Olive/OliveGreen.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -972,6 +1072,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -981,6 +1082,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/Olive/Light_OliveGreen.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -990,6 +1092,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/LawnGreen/Dark_LawnGreen.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -999,6 +1102,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/Vivid_Green.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1008,6 +1112,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/LightGreen.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1017,6 +1122,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/LawnGreen/LawnGreen.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1026,6 +1132,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/Light_Green.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1035,6 +1142,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/PaleGreen.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1044,6 +1152,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/ForestGreen/Light_ForestGreen.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1053,6 +1162,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/Olive/DarkOliveGreen.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1062,6 +1172,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/Green.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1071,6 +1182,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/SpringGreen/SpringGreen.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1080,6 +1192,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/LawnGreen/Light_LawnGreen.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1089,6 +1202,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/SpringGreen/MediumSpringGreen.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1098,6 +1212,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/Dark_Green.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1107,6 +1222,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/DarkGreen.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1116,6 +1232,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/ForestGreen/ForestGreen.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1125,6 +1242,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Teal/SeaGreen/DarkSeaGreen.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1134,6 +1252,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Teal/SeaGreen/MediumSeaGreen.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1143,6 +1262,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Teal/SeaGreen/SeaGreen.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1152,6 +1272,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/SpringGreen/Dark_SpringGreen.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1161,6 +1282,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/ForestGreen/Dark_ForestGreen.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1170,6 +1292,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Teal/BlueGreen.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1179,6 +1302,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Teal/GreenBlue.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1188,6 +1312,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Teal/MediumTeal.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1197,6 +1322,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1206,6 +1332,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Teal/Turquoise/DarkTurquoise.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1215,6 +1342,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Teal/Turquoise/MediumTurquoise.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1224,6 +1352,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Teal/Turquoise/Turquoise.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1233,6 +1362,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Teal/Turquoise/PaleTurquoise.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1242,6 +1372,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Teal/SeaGreen/LightSeaGreen.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1251,6 +1382,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1260,6 +1392,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Teal/DarkTeal.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1269,6 +1402,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/Aqua/Dark_Aqua.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1278,6 +1412,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Teal/Teal.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1287,6 +1422,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Teal/LightTeal.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1296,6 +1432,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/Aqua/Light_Aqua.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1305,6 +1442,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1314,6 +1452,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1323,6 +1462,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/Cyan/Dark_Cyan.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1332,6 +1472,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/Cyan/DarkCyan.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1341,6 +1482,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/Cyan/Cyan.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1350,6 +1492,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/Cyan/Light_Cyan.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1359,6 +1502,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/Cyan/LightCyan.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1368,6 +1512,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1377,6 +1522,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1386,6 +1532,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/Cyan/Vivid_Cyan.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1395,6 +1542,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/Aqua/Aqua.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1404,6 +1552,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/Aqua/MediumAquamarine.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1413,6 +1562,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1422,6 +1572,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1431,6 +1582,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/Azure/Azure.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1440,6 +1592,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1449,6 +1602,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/Light_Blue.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1458,6 +1612,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/PowderBlue.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1467,6 +1622,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/LightBlue.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1476,6 +1632,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/Indigo/Light_Indigo.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1485,6 +1642,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/SkyBlue/DeepSkyBlue.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1494,6 +1652,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/Azure/Light_Azure.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1503,6 +1662,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1512,6 +1672,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/SkyBlue/SkyBlue.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1521,6 +1682,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/SkyBlue/LightSkyBlue.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1530,6 +1692,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/Azure/Dark_Azure.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1539,6 +1702,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1548,6 +1712,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/SteelBlue/SteelBlue.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1557,6 +1722,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/SteelBlue/LightSteelBlue.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1566,6 +1732,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1575,6 +1742,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1584,6 +1752,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/Indigo/Dark_Indigo.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1593,6 +1762,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/DarkBlue.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1602,6 +1772,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/SlateBlue/MediumSlateBlue.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1611,6 +1782,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/Vivid_Blue.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1620,6 +1792,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1629,6 +1802,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1638,6 +1812,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/MidnightBlue.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1647,6 +1822,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/Dark_Blue.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1656,6 +1832,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/MediumBlue.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1665,6 +1842,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/Blue.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1674,6 +1852,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1683,6 +1862,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1692,6 +1872,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1701,6 +1882,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1710,6 +1892,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/RoyalBlue.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1719,6 +1902,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/CornflowerBlue.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1728,6 +1912,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1737,6 +1922,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1746,6 +1932,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/Indigo/Indigo.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1755,6 +1942,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/SlateBlue/SlateBlue.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1764,6 +1952,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/NavyBlue.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1773,6 +1962,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1782,6 +1972,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1791,6 +1982,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1800,6 +1992,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1809,6 +2002,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Violet/BlueViolet.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1818,6 +2012,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1827,6 +2022,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/PurpleBlue/BluePurple.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1836,6 +2032,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/PurpleBlue/PurpleBlue.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1845,6 +2042,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1854,6 +2052,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1863,6 +2062,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Purple/Dark_Purple.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1872,6 +2072,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Violet/DarkViolet.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1881,6 +2082,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Violet/Violet.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1890,6 +2092,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1899,6 +2102,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1908,6 +2112,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1917,6 +2122,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Purple/DarkOrchid.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1926,6 +2132,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1935,6 +2142,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Purple/RebeccaPurple.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1944,6 +2152,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1953,6 +2162,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1962,6 +2172,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1971,6 +2182,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1980,6 +2192,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -1989,6 +2202,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Purple/Light_Purple.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -1998,6 +2212,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Purple/LavenderBlush.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -2007,6 +2222,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -2016,6 +2232,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -2025,6 +2242,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Purple/Purple.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -2034,6 +2252,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Purple/Vivid_Purple.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -2043,6 +2262,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -2052,6 +2272,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Purple/MediumPurple.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -2061,6 +2282,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -2070,6 +2292,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Pink/Fuchsia/MediumFuchsia.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -2079,6 +2302,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -2088,6 +2312,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Pink/Fuchsia/Light_Fuchsia.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -2097,6 +2322,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Violet/VioletRed/MediumVioletRed.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -2106,6 +2332,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Violet/VioletRed/PaleVioletRed.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -2115,6 +2342,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -2124,6 +2352,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Pink/Fuchsia/Dark_Fuchsia.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -2133,6 +2362,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Magenta/Dark_Magenta.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -2142,6 +2372,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Magenta/DarkMagenta.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -2151,6 +2382,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Magenta/Vivid_Magenta.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -2160,6 +2392,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Magenta/Magenta.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -2169,6 +2402,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Magenta/Light_Magenta.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -2178,6 +2412,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Pink/Fuchsia/Fuchsia.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -2187,6 +2422,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -2196,6 +2432,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Pink/Dark_Pink.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -2205,6 +2442,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Pink/Vivid_Pink.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -2214,6 +2452,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -2223,6 +2462,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -2232,6 +2472,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -2241,6 +2482,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -2250,6 +2492,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Pink/DeepPink.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -2259,6 +2502,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Pink/Hotpink.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -2268,6 +2512,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Pink/Pink.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -2277,6 +2522,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -2286,6 +2532,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Pink/Blush/Dark_Blush.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -2295,6 +2542,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="/moi.png"
+            alt=""
             width={200}
             height={200}
           />
@@ -2304,6 +2552,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Pink/Blush/Light_Blush.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -2313,6 +2562,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Pink/Blush/Blush.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -2322,6 +2572,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Pink/LightPink.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
@@ -2331,6 +2582,7 @@ const Raibow = () => {
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Pink/Light_Pink.webp?raw=true"
+            alt=""
             width={200}
             height={200}
           />
