@@ -6,17 +6,17 @@ const Frame = () => {
       <section className="grid grid-cols-3 grid-rows-13 text-white pl-24 pr-24 mt-32 gap-2">
         <div className="col-span-3 flex justify-center border border-gray-800 rounded p-4">
           <Link className="" href="/styles/raibow">
-            <span>Raibow of Midjourney Colors</span>
+            <span>Raibow of Midjourney Colors Fonctionne</span>
           </Link>
         </div>
         <div className="col-span-3 flex justify-center border border-gray-800 rounded p-4">
           <Link className="" href="/styles/emoji">
-            <span>Emoji</span>
+            <span>Emoji Fonctionne</span>
           </Link>
         </div>
         <div className="flex justify-center border border-gray-800 rounded p-4">
           <Link className="" href="/styles/themes">
-            Themes ICI que lui fonctionne pour l&apos;instant
+            Themes Fonctionne
           </Link>
         </div>
         <div className="flex justify-center border border-gray-800 rounded p-4">
