@@ -5,7 +5,7 @@ const Frame = () => {
     <body>
       <section className="grid grid-cols-3 grid-rows-13 text-white pl-24 pr-24 mt-32 gap-2">
         <div className="col-span-3 flex justify-center border border-gray-800 rounded p-4">
-          <Link className="" href="">
+          <Link className="" href="/styles/raibow">
             <span>Raibow of Midjourney Colors</span>
           </Link>
         </div>

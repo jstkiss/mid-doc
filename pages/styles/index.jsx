@@ -9,7 +9,7 @@ import Retro from "./themes/Components/retro";
 import Scifi from "./themes/Components/scifi";
 import Frame from "../../src/components/CadreThemes";
 
-const Design = () => {
+const Styles = () => {
   const [selectedCategoryId, setSelectedCategoryId] = useState(null);
   return (
     <body className="customblack">
@@ -53,4 +53,4 @@ const Design = () => {
   );
 };
 
-export default Design;
+export default Styles;
