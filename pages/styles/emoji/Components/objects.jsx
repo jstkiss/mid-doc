@@ -187,6 +187,8 @@ const Objects = () => {
                     (category) => category.id === selectedCategoryId
                   ).image
                 }
+                width="431"
+                height="431"
                 alt="dzdd"
               />
             ) : (

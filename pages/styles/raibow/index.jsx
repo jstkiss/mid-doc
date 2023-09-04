@@ -251,16 +251,6 @@ const Raibow = () => {
         <div className="flex flex-col items-center pb-6">
           <Image
             className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/White/Light_White.webp?raw=true"
             alt=""
             width={200}
@@ -427,16 +417,6 @@ const Raibow = () => {
             height={200}
           />
           <h1 className="flex justify-center border rounded-full bg-customyello w-32">Vivid_Brown</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
         </div>
         <div className="flex flex-col items-center pb-6">
           <Image
@@ -671,42 +651,12 @@ const Raibow = () => {
         <div className="flex flex-col items-center pb-6">
           <Image
             className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/RedOrange/Light_RedOrange.webp?raw=true"
             alt=""
             width={200}
             height={200}
           />
           <h1 className="flex justify-center border rounded-full bg-customyello w-32">Light_RedOrange</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
         </div>
         <div className="flex flex-col items-center pb-6">
           <Image
@@ -781,26 +731,6 @@ const Raibow = () => {
         <div className="flex flex-col items-center pb-6">
           <Image
             className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Yellow/Dark_Yellow.webp?raw=true"
             alt=""
             width={200}
@@ -847,26 +777,6 @@ const Raibow = () => {
             height={200}
           />
           <h1 className="flex justify-center border rounded-full bg-customyello w-32">Light_Yellow</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
         </div>
         <div className="flex flex-col items-center pb-6">
           <Image
@@ -991,16 +901,6 @@ const Raibow = () => {
         <div className="flex flex-col items-center pb-6">
           <Image
             className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/Lime/Vivid_Lime.webp?raw=true"
             alt=""
             width={200}
@@ -1041,16 +941,6 @@ const Raibow = () => {
         <div className="flex flex-col items-center pb-6">
           <Image
             className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/Olive/Olive_Green.webp?raw=true"
             alt=""
             width={200}
@@ -1067,16 +957,6 @@ const Raibow = () => {
             height={200}
           />
           <h1 className="flex justify-center border rounded-full bg-customyello w-32">OliveGreen</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
         </div>
         <div className="flex flex-col items-center pb-6">
           <Image
@@ -1321,16 +1201,6 @@ const Raibow = () => {
         <div className="flex flex-col items-center pb-6">
           <Image
             className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Teal/Turquoise/DarkTurquoise.webp?raw=true"
             alt=""
             width={200}
@@ -1377,16 +1247,6 @@ const Raibow = () => {
             height={200}
           />
           <h1 className="flex justify-center border rounded-full bg-customyello w-32">LightSeaGreen</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
         </div>
         <div className="flex flex-col items-center pb-6">
           <Image
@@ -1441,26 +1301,6 @@ const Raibow = () => {
         <div className="flex flex-col items-center pb-6">
           <Image
             className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/Cyan/Dark_Cyan.webp?raw=true"
             alt=""
             width={200}
@@ -1511,26 +1351,6 @@ const Raibow = () => {
         <div className="flex flex-col items-center pb-6">
           <Image
             className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/Cyan/Vivid_Cyan.webp?raw=true"
             alt=""
             width={200}
@@ -1561,42 +1381,12 @@ const Raibow = () => {
         <div className="flex flex-col items-center pb-6">
           <Image
             className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/Azure/Azure.webp?raw=true"
             alt=""
             width={200}
             height={200}
           />
           <h1 className="flex justify-center border rounded-full bg-customyello w-32">Azure</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
         </div>
         <div className="flex flex-col items-center pb-6">
           <Image
@@ -1661,16 +1451,6 @@ const Raibow = () => {
         <div className="flex flex-col items-center pb-6">
           <Image
             className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/SkyBlue/SkyBlue.webp?raw=true"
             alt=""
             width={200}
@@ -1701,16 +1481,6 @@ const Raibow = () => {
         <div className="flex flex-col items-center pb-6">
           <Image
             className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/SteelBlue/SteelBlue.webp?raw=true"
             alt=""
             width={200}
@@ -1727,26 +1497,6 @@ const Raibow = () => {
             height={200}
           />
           <h1 className="flex justify-center border rounded-full bg-customyello w-32">LightSteelBlue</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
         </div>
         <div className="flex flex-col items-center pb-6">
           <Image
@@ -1791,26 +1541,6 @@ const Raibow = () => {
         <div className="flex flex-col items-center pb-6">
           <Image
             className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/MidnightBlue.webp?raw=true"
             alt=""
             width={200}
@@ -1851,46 +1581,6 @@ const Raibow = () => {
         <div className="flex flex-col items-center pb-6">
           <Image
             className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Blue/RoyalBlue.webp?raw=true"
             alt=""
             width={200}
@@ -1907,26 +1597,6 @@ const Raibow = () => {
             height={200}
           />
           <h1 className="flex justify-center border rounded-full bg-customyello w-32">CornflowerBlue</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
         </div>
         <div className="flex flex-col items-center pb-6">
           <Image
@@ -1961,62 +1631,12 @@ const Raibow = () => {
         <div className="flex flex-col items-center pb-6">
           <Image
             className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Violet/BlueViolet.webp?raw=true"
             alt=""
             width={200}
             height={200}
           />
           <h1 className="flex justify-center border rounded-full bg-customyello w-32">BlueViolet</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
         </div>
         <div className="flex flex-col items-center pb-6">
           <Image
@@ -2037,26 +1657,6 @@ const Raibow = () => {
             height={200}
           />
           <h1 className="flex justify-center border rounded-full bg-customyello w-32">PurpleBlue</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
         </div>
         <div className="flex flex-col items-center pb-6">
           <Image
@@ -2091,36 +1691,6 @@ const Raibow = () => {
         <div className="flex flex-col items-center pb-6">
           <Image
             className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Purple/DarkOrchid.webp?raw=true"
             alt=""
             width={200}
@@ -2131,72 +1701,12 @@ const Raibow = () => {
         <div className="flex flex-col items-center pb-6">
           <Image
             className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Purple/RebeccaPurple.webp?raw=true"
             alt=""
             width={200}
             height={200}
           />
           <h1 className="flex justify-center border rounded-full bg-customyello w-32">RebeccaPurple</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">Nothibg</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
         </div>
         <div className="flex flex-col items-center pb-6">
           <Image
@@ -2221,26 +1731,6 @@ const Raibow = () => {
         <div className="flex flex-col items-center pb-6">
           <Image
             className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Purple/Purple.webp?raw=true"
             alt=""
             width={200}
@@ -2261,16 +1751,6 @@ const Raibow = () => {
         <div className="flex flex-col items-center pb-6">
           <Image
             className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Purple/MediumPurple.webp?raw=true"
             alt=""
             width={200}
@@ -2281,32 +1761,12 @@ const Raibow = () => {
         <div className="flex flex-col items-center pb-6">
           <Image
             className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">Nothibg</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Pink/Fuchsia/MediumFuchsia.webp?raw=true"
             alt=""
             width={200}
             height={200}
           />
           <h1 className="flex justify-center border rounded-full bg-customyello w-32">MediumFuchsia</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
         </div>
         <div className="flex flex-col items-center pb-6">
           <Image
@@ -2337,16 +1797,6 @@ const Raibow = () => {
             height={200}
           />
           <h1 className="flex justify-center border rounded-full bg-customyello w-32">PaleVioletRed</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">Nothibg</h1>
         </div>
         <div className="flex flex-col items-center pb-6">
           <Image
@@ -2421,16 +1871,6 @@ const Raibow = () => {
         <div className="flex flex-col items-center pb-6">
           <Image
             className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Pink/Dark_Pink.webp?raw=true"
             alt=""
             width={200}
@@ -2447,46 +1887,6 @@ const Raibow = () => {
             height={200}
           />
           <h1 className="flex justify-center border rounded-full bg-customyello w-32">Vivid_Pink</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
         </div>
         <div className="flex flex-col items-center pb-6">
           <Image
@@ -2521,16 +1921,6 @@ const Raibow = () => {
         <div className="flex flex-col items-center pb-6">
           <Image
             className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">404</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Pink/Blush/Dark_Blush.webp?raw=true"
             alt=""
             width={200}
@@ -2538,17 +1928,7 @@ const Raibow = () => {
           />
           <h1 className="flex justify-center border rounded-full bg-customyello w-32">Dark_Blush</h1>
         </div>
-        <div className="flex flex-col items-center pb-6">
-          <Image
-            className="pb-2"
-            src="/moi.png"
-            alt=""
-            width={200}
-            height={200}
-          />
-          <h1 className="flex justify-center border rounded-full bg-customyello w-32">Nothibg</h1>
-        </div>
-        <div className="flex flex-col items-center pb-6">
+        <div className="flex flex-col items-center pb-6 col-start-2">
           <Image
             className="pb-2"
             src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Pink/Blush/Light_Blush.webp?raw=true"

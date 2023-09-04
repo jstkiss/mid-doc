@@ -6,22 +6,26 @@ const categories = [
   {
     id: 1,
     name: "Circus Tent",
-    image: "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.6/Emojis/Travel_and_Places/Circus_Tent.webp?raw=true",
+    image:
+      "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.6/Emojis/Travel_and_Places/Circus_Tent.webp?raw=true",
   },
   {
     id: 2,
     name: "Hindu Temple",
-    image: "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.6/Emojis/Travel_and_Places/Hindu_Temple.webp?raw=true",
+    image:
+      "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.6/Emojis/Travel_and_Places/Hindu_Temple.webp?raw=true",
   },
   {
     id: 3,
     name: "Shinto Shrine",
-    image: "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.6/Emojis/Travel_and_Places/Shinto_Shrine.webp?raw=true",
+    image:
+      "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.6/Emojis/Travel_and_Places/Shinto_Shrine.webp?raw=true",
   },
   {
     id: 4,
     name: "Kaaba",
-    image: "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.6/Emojis/Travel_and_Places/Kaaba.webp?raw=true",
+    image:
+      "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/raw/main/Images/MJ_V4/V4_Alpha_3.6/Emojis/Travel_and_Places/Kaaba.webp?raw=true",
   },
 ];
 
@@ -55,6 +59,8 @@ const Travel = () => {
                     (category) => category.id === selectedCategoryId
                   ).image
                 }
+                width="431"
+                height="431"
                 alt="dzdd"
               />
             ) : (
