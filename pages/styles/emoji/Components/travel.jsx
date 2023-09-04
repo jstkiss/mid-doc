@@ -45,10 +45,10 @@ const Travel = () => {
               </h1>
             ))}
           </div>
-          <div className="flex justify-center items-center">
+          <div className="justify-center items-center">
             {selectedCategoryId ? (
               <img
-                className="w-96"
+                className="w-96 sticky top-20"
                 src={
                   categories.find(
                     (category) => category.id === selectedCategoryId

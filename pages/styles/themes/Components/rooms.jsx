@@ -310,10 +310,10 @@ const Rooms = () => {
               </h1>
             ))}
           </div>
-          <div className="flex justify-center items-center">
+          <div className="justify-center items-center">
             {selectedCategoryId ? (
               <Image
-                className="w-96"
+                className="w-96 sticky top-20"
                 src={
                   categories.find(
                     (category) => category.id === selectedCategoryId

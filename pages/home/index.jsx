@@ -3,7 +3,6 @@ import Introduction from "../../src/components/introduction";
 import React from "react";
 import About from "../../src/components/abouts";
 import Explore from "../../src/components/explore";
-import Form from "../../src/components/form";
 import Footer from "../../src/components/footer";
 
 const HomePage = () => {
@@ -18,7 +17,7 @@ const HomePage = () => {
           <Explore />
         </div>
         <div className="relative">
-          <Form />
+
           <div className="gradient-04 z-0"></div>
           <Footer />
         </div>
