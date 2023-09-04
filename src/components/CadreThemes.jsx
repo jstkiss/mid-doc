@@ -20,7 +20,7 @@ const Frame = () => {
           </Link>
         </div>
         <div className="flex justify-center border border-gray-800 rounded p-4">
-          <Link className="" href="">
+          <Link className="" href="/styles/design">
             Design Styles
           </Link>
         </div>
