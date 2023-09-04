@@ -180,7 +180,7 @@ const Objects = () => {
           </div>
           <div className="justify-center items-center">
             {selectedCategoryId ? (
-              <img
+              <Image
                 className="w-96 sticky top-20"
                 src={
                   categories.find(
